@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.Practical5_MAD_22012011082" parent="android:Theme.Material.Light.NoActionBar" />
+
+    <style name="Theme.Practical5_MAD_22012011082.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <style name="Theme.Practical5_MAD_22012011082.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+    <style name="Theme.Practical5_MAD_22012011082.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+</resources>
